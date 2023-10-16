@@ -127,7 +127,7 @@ const Projects = () => {
   return (
     <>
       <Head>
-        <title>Awais Ashraf | Projects</title>
+        <title>Ateeq Ahmad | Projects</title>
         <meta name="description" content="any description" />
       </Head>
       <TransitionEffect />
