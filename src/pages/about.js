@@ -63,7 +63,7 @@ const about = () => {
               </p>
 
               <p className=" my-4 font-medium xl:text-justify">
-              I firmly believe that development goes beyond mere functionality – it's about problem-solving and crafting seamless, user-friendly experiences.
+              I firmly believe that development goes beyond mere functionality – its about problem-solving and crafting seamless, user-friendly experiences.
               </p>
 
               <p className="font-medium xl:text-justify">
