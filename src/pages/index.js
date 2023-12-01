@@ -58,7 +58,7 @@ export default function Home() {
 
                 {/* Email Button */}
                 <Link
-                  href="mailto:ateeqbhatti487@gmail.com"     
+                  href="https://wa.me/+923227604267?text=Hey Ateeq"     
                   target={"_blank"}
                   // className='ml-4 text-lg font-medium capitalize text-dark underline'
                   className="flex items-center bg-light text-dark p-2.5 px-8 rounded-lg text-lg font-semibold hover:bg-dark hover:text-light border-2 border-solid border-dark hover:border-dark ml-2 dark:hover:border-light md:text-base "
