@@ -168,6 +168,81 @@ const Projects = () => {
              xl:mb-4 lg:mb-4 md:mb-2  sm:mb-2 */}
 
               <Project
+                title="Noor Travel UK"
+                summary=""
+                img={project5}      
+                link="https://noortravel.co.uk/"
+                type="Featured Project"        
+                github="/"
+              />
+            </div>
+                          {/* // xl:mr-4 lg:mr-4 md:mr-2  sm:mr-2
+            // xl:mb-10 lg:mb-10 md:mb-10  sm:mb-10 */}
+              <Project
+                title="Travel Garden"
+                summary=""
+                img={project6}
+                link="https://www.travelgarden.co.uk/"
+                type="Featured Project"        
+                github="/"
+              />
+            </div>
+                          {/* // xl:mr-4 lg:mr-4 md:mr-2  sm:mr-2
+            // xl:mb-10 lg:mb-10 md:mb-10  sm:mb-10 */}
+              <Project
+                title="Nexa Dispatch"
+                summary=""
+                img={project7}
+                link="https://www.travelley.us/"
+                type="Featured Project"        
+                github="/"
+              />
+            </div>
+            <div className="col-span-6 sm:col-span-12 xl:mr-6 xl:mb-10 lg:mr-6 lg:mb-10 md:mb-10 sm:!mr-0 xs:!mr-0
+            ">
+              {/* xl:ml-4 lg:ml-4 md:ml-2  sm:ml-2 
+             xl:mb-4 lg:mb-4 md:mb-2  sm:mb-2 */}
+
+              <Project
+                title="AlShurooq Garage"
+                summary=""
+                img={project8}      
+                link="https://alshurooqgarage.com/"
+                type="Featured Project"        
+                github="/"
+              />
+            </div>
+                          {/* // xl:mr-4 lg:mr-4 md:mr-2  sm:mr-2
+            // xl:mb-10 lg:mb-10 md:mb-10  sm:mb-10 */}
+              <Project
+                title="Almakkah Travel"
+                summary=""
+                img={project9}
+                link="https://www.almakkahtravel.com/"
+                type="Featured Project"        
+                github="/"
+              />
+            </div>
+            <div className="col-span-6 sm:col-span-12 xl:mr-6 xl:mb-10 lg:mr-6 lg:mb-10 md:mb-10 sm:!mr-0 xs:!mr-0
+            ">
+              {/* xl:ml-4 lg:ml-4 md:ml-2  sm:ml-2 
+             xl:mb-4 lg:mb-4 md:mb-2  sm:mb-2 */}
+
+              <Project
+                title="VisaOn"
+                summary=""
+                img={project10}      
+                link="https://visaon.net/"
+                type="Featured Project"        
+                github="/"
+              />
+            </div>
+            <div className="col-span-6 sm:col-span-12 xl:mr-6 xl:mb-10 lg:mr-6 lg:mb-10 md:mb-10 sm:!mr-0 xs:!mr-0
+            ">
+              {/* xl:ml-4 lg:ml-4 md:ml-2  sm:ml-2 
+             xl:mb-4 lg:mb-4 md:mb-2  sm:mb-2 */}
+
+              <Project
                 title="GetSetTravel"
                 summary=""
                 img={project3}      
