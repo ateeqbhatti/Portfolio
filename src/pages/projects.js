@@ -14,7 +14,7 @@ import project6 from "../../public/images/projects/Travel Garden uk.png";
 import project7 from "../../public/images/projects/Nexa Dispatch.png";
 import project8 from "../../public/images/projects/Alshurooq Garage.png";
 import project9 from "../../public/images/projects/Almakkah travel.png";
-import project10 from "../../public/images/projects/BestCustomPackaging.png";
+import project10 from "../../public/images/projects/Visa on.png";
 import HireMe from "@/styles/HireMe";
 import TransitionEffect from "@/components/TransitionEffect";
 
