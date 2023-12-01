@@ -9,6 +9,13 @@ import project1 from "../../public/images/projects/TerraCyborg.png";
 import project2 from "../../public/images/projects/Travelley UK.png";
 import project3 from "../../public/images/projects/GetSetTravelUs.png";
 import project4 from "../../public/images/projects/BestCustomPackaging.png";
+import project5 from "../../public/images/projects/Almakkah travel.png";
+import project6 from "../../public/images/projects/Alshurooq Garage.png";
+import project7 from "../../public/images/projects/Nexa Dispatch.png";
+import project8 from "../../public/images/projects/Travel Garden uk.png";
+import project9 from "../../public/images/projects/Visa on.png";
+import project10 from "../../public/images/projects/Noor travel uk.png";
+
 import HireMe from "@/styles/HireMe";
 import TransitionEffect from "@/components/TransitionEffect";
 
@@ -172,6 +179,87 @@ const Projects = () => {
                 summary=""
                 img={project3}      
                 link="https://getsettravel.us/"
+                type="Featured Project"        
+                github="/"
+              />
+            </div>
+            <div className="col-span-6 sm:col-span-12 xl:mr-6 xl:mb-10 lg:mr-6 lg:mb-10 md:mb-10 sm:!mr-0 xs:!mr-0
+            ">
+            {/* // xl:mr-4 lg:mr-4 md:mr-2  sm:mr-2
+            // xl:mb-10 lg:mb-10 md:mb-10  sm:mb-10 */}
+              <Project
+                title="Almakkah Travel"
+                summary=""
+                img={project5}
+                link="https://almakkahtravel.com/"
+                type="Featured Project"        
+                github="/"
+              />
+            </div>
+            <div className="col-span-6 sm:col-span-12 xl:mr-6 xl:mb-10 lg:mr-6 lg:mb-10 md:mb-10 sm:!mr-0 xs:!mr-0
+            ">
+              {/* xl:ml-4 lg:ml-4 md:ml-2  sm:ml-2 
+             xl:mb-4 lg:mb-4 md:mb-2  sm:mb-2 */}
+
+              <Project
+                title="Alshurooq Garage"
+                summary=""
+                img={project6}      
+                link="https://alshurooqgarage.com/"
+                type="Featured Project"        
+                github="/"
+              />
+            </div>
+            <div className="col-span-6 sm:col-span-12 xl:mr-6 xl:mb-10 lg:mr-6 lg:mb-10 md:mb-10 sm:!mr-0 xs:!mr-0
+            ">
+            {/* // xl:mr-4 lg:mr-4 md:mr-2  sm:mr-2
+            // xl:mb-10 lg:mb-10 md:mb-10  sm:mb-10 */}
+              <Project
+                title="Nexa Dispatch"
+                summary=""
+                img={project7}
+                link="https://travelley.us/"
+                type="Featured Project"        
+                github="/"
+              />
+            </div>
+            <div className="col-span-6 sm:col-span-12 xl:mr-6 xl:mb-10 lg:mr-6 lg:mb-10 md:mb-10 sm:!mr-0 xs:!mr-0
+            ">
+              {/* xl:ml-4 lg:ml-4 md:ml-2  sm:ml-2 
+             xl:mb-4 lg:mb-4 md:mb-2  sm:mb-2 */}
+
+              <Project
+                title="Travel Garden"
+                summary=""
+                img={project8}      
+                link="https://travelgarden.co.uk/"
+                type="Featured Project"        
+                github="/"
+              />
+            </div>
+            <div className="col-span-6 sm:col-span-12 xl:mr-6 xl:mb-10 lg:mr-6 lg:mb-10 md:mb-10 sm:!mr-0 xs:!mr-0
+            ">
+            {/* // xl:mr-4 lg:mr-4 md:mr-2  sm:mr-2
+            // xl:mb-10 lg:mb-10 md:mb-10  sm:mb-10 */}
+              <Project
+                title="Visa On"
+                summary=""
+                img={project9}
+                link="https://visaon.net/"
+                type="Featured Project"        
+                github="/"
+              />
+            </div>
+            <div className="col-span-6 sm:col-span-12 xl:mr-6 xl:mb-10 lg:mr-6 lg:mb-10 md:mb-10 sm:!mr-0 xs:!mr-0
+            ">
+              {/* xl:ml-4 lg:ml-4 md:ml-2  sm:ml-2 
+             xl:mb-4 lg:mb-4 md:mb-2  sm:mb-2 */}
+
+              <Project
+                title="Noor Travel"
+                summary=""
+                img={project10}      
+                link="https://noortravel.co.uk/"
                 type="Featured Project"        
                 github="/"
               />
