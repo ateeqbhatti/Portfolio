@@ -59,26 +59,26 @@ const Experience = () => {
             position="Full Stack Web Developer"
             company="Wilsol Tech"
             companyLink="https://www.wilsol.tech"
-            time="2023-Present"
-            address="Sheranwala Complex Wapda Town, LHR."
+            time="2022-Present"
+            address="Johar Town Phase 2, LHR."
             work="As a Python Django full-stack developer at Wilsol Tech, I've been at the forefront of developing comprehensive web applications that encompass both front-end and back-end. Utilizing Python, Django, and associated technologies, I've been a driving force behind creating versatile and robust digital solutions that not only meet but exceed client expectations. My focus on coding excellence, security, and a seamless user experience is a testament to my commitment to delivering top-tier web applications."
           />
 
           <Details
-            position="WordPress Developer"
-            company="Wilsol Tech"
-            companyLink="https://www.wilsol.tech"
-            time="2022-2023"
-            address="Sheranwala Complex Wapda Town, LHR."
-            work="As a WordPress developer at Wilsol Tech, I excel in crafting visually engaging and intuitive WordPress websites. My role encompasses theme customization, front-end development, and the seamless integration of plugins to elevate performance and user experience. My contributions consistently enhance our clients' online presence and deliver impactful results."
+            position="Full Stack Web Developer"
+            company="Forward Sols"
+            companyLink="#"
+            time="2021-2022"
+            address="Ferozpur road, LHR."
+            work="As a Full stack developer at Forward Sols, I excel in crafting visually engaging and intuitive WordPress websites. My role encompasses web designing, and implementing those designs for better user experience, by keeping in mind how user see and use my product."
           />
 
           <Details
-            position="Assistant Accountant"
-            company="Lal Qila Restaurant, LHR"
-            companyLink="https://www.lalqila.com"
-            time="2022-2022"
-            address="As an Assistant Accountant, I played a pivotal role in overseeing financial transactions and ensuring the seamless financial operation of the organization. My duties encompassed precise management of invoices, processing payments, and delivering top-notch financial services."
+            position="Providing Different Services"
+            company="Fiverr"
+            companyLink="https://www.fiverr.com"
+            time="2020-present"
+            address="I'm currently working as a freelancer as well, giving website modification, creation and debugging services, and website to app conversions , Logo Design ,UI/UX design and many services like that , and i have hands-on experience in these fields as i keep myself in touch with latest marketing trends"
           />
 
           

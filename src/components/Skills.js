@@ -34,16 +34,16 @@ const Skills = () => {
         Web
         </motion.div>
 
-        <Skill name="Python" x="-25vw"  y="2vw" />
-        <Skill name="Django" x="-5vw"  y="-10vw" />
-        <Skill name="Front-End" x="20vw"  y="6vw" />
-        <Skill name="MySQL" x="0vw"  y="12vw" />
-        <Skill name="Web Security" x="-20vw"  y="-15vw" />
-        <Skill name="Testing" x="15vw"  y="-12vw" />
-        <Skill name="Kubernetes" x="32vw"  y="-5vw" />
-        <Skill name="CI/CD" x="0vw"  y="-20vw" />
-        <Skill name="Docker" x="-25vw"  y="18vw" />
-        <Skill name="Agile" x="18vw"  y="18vw" />
+        <Skill name="PYTHON" x="-25vw"  y="2vw" />
+        <Skill name="DJANGO" x="-5vw"  y="-10vw" />
+        <Skill name="HTML" x="20vw"  y="6vw" />
+        <Skill name="CSS" x="0vw"  y="12vw" />
+        <Skill name="MySQL" x="-20vw"  y="-15vw" />
+        <Skill name="FLASK" x="15vw"  y="-12vw" />
+        <Skill name="JAVASCRIPT" x="32vw"  y="-5vw" />
+        <Skill name="BOOTSTRAP" x="0vw"  y="-20vw" />
+        <Skill name="WP BACKEND/FRONT-END" x="-25vw"  y="18vw" />
+        <Skill name="GIT" x="18vw"  y="18vw" />
       </div>
     </>
   );
