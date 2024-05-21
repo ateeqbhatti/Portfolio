@@ -14,6 +14,12 @@ import project6 from "../../public/images/projects/Alshurooq Garage.png";
 import project7 from "../../public/images/projects/Nexa Dispatch.png";
 import project8 from "../../public/images/projects/Travel Garden uk.png";
 import project9 from "../../public/images/projects/Visa on.png";
+import project16 from "../../public/images/projects/getsetholiday.png";
+import project11 from "../../public/images/projects/flybuddy.png";
+import project12 from "../../public/images/projects/haramtravel.png";
+import project13 from "../../public/images/projects/baloons art.png";
+import project14 from "../../public/images/projects/holiday venture.png";
+import project15 from "../../public/images/projects/jinderimpex.png";
 import project10 from "../../public/images/projects/Noor travel uk.png";
 
 import HireMe from "@/styles/HireMe";
@@ -260,6 +266,87 @@ const Projects = () => {
                 summary=""
                 img={project10}      
                 link="https://noortravel.co.uk/"
+                type="Featured Project"        
+                github="/"
+              />
+            </div>
+            <div className="col-span-6 sm:col-span-12 xl:mr-6 xl:mb-10 lg:mr-6 lg:mb-10 md:mb-10 sm:!mr-0 xs:!mr-0
+            ">
+            {/* // xl:mr-4 lg:mr-4 md:mr-2  sm:mr-2
+            // xl:mb-10 lg:mb-10 md:mb-10  sm:mb-10 */}
+              <Project
+                title="Haram Travel"
+                summary=""
+                img={project12}
+                link="https://haramtravel.co.uk/"
+                type="Featured Project"        
+                github="/"
+              />
+            </div>
+            <div className="col-span-6 sm:col-span-12 xl:mr-6 xl:mb-10 lg:mr-6 lg:mb-10 md:mb-10 sm:!mr-0 xs:!mr-0
+            ">
+              {/* xl:ml-4 lg:ml-4 md:ml-2  sm:ml-2 
+             xl:mb-4 lg:mb-4 md:mb-2  sm:mb-2 */}
+
+              <Project
+                title="Baloons Art"
+                summary=""
+                img={project13}      
+                link="https://baloonsart.com/"
+                type="Featured Project"        
+                github="/"
+              />
+            </div>
+            <div className="col-span-6 sm:col-span-12 xl:mr-6 xl:mb-10 lg:mr-6 lg:mb-10 md:mb-10 sm:!mr-0 xs:!mr-0
+            ">
+            {/* // xl:mr-4 lg:mr-4 md:mr-2  sm:mr-2
+            // xl:mb-10 lg:mb-10 md:mb-10  sm:mb-10 */}
+              <Project
+                title="Holiday venture"
+                summary=""
+                img={project14}
+                link="https://holidayventure.co.uk/"
+                type="Featured Project"        
+                github="/"
+              />
+            </div>
+            <div className="col-span-6 sm:col-span-12 xl:mr-6 xl:mb-10 lg:mr-6 lg:mb-10 md:mb-10 sm:!mr-0 xs:!mr-0
+            ">
+              {/* xl:ml-4 lg:ml-4 md:ml-2  sm:ml-2 
+             xl:mb-4 lg:mb-4 md:mb-2  sm:mb-2 */}
+
+              <Project
+                title="Jinder Impex"
+                summary=""
+                img={project15}      
+                link="https://jinderimpex.com/"
+                type="Featured Project"        
+                github="/"
+              />
+            </div>
+            <div className="col-span-6 sm:col-span-12 xl:mr-6 xl:mb-10 lg:mr-6 lg:mb-10 md:mb-10 sm:!mr-0 xs:!mr-0
+            ">
+            {/* // xl:mr-4 lg:mr-4 md:mr-2  sm:mr-2
+            // xl:mb-10 lg:mb-10 md:mb-10  sm:mb-10 */}
+              <Project
+                title="Flybuddy"
+                summary=""
+                img={project11}
+                link="https://flybuddy.co.uk/"
+                type="Featured Project"        
+                github="/"
+              />
+            </div>
+            <div className="col-span-6 sm:col-span-12 xl:mr-6 xl:mb-10 lg:mr-6 lg:mb-10 md:mb-10 sm:!mr-0 xs:!mr-0
+            ">
+              {/* xl:ml-4 lg:ml-4 md:ml-2  sm:ml-2 
+             xl:mb-4 lg:mb-4 md:mb-2  sm:mb-2 */}
+
+              <Project
+                title="GetSetHoliday"
+                summary=""
+                img={project16}      
+                link="https://getsetholiday.co.uk/"
                 type="Featured Project"        
                 github="/"
               />
