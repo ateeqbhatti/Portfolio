@@ -67,18 +67,17 @@ const Experience = () => {
           <Details
             position="Full Stack Web Developer"
             company="Forward Sols"
-            companyLink="#"
             time="2021-2022"
             address="Ferozpur road, LHR."
             work="As a Full stack developer at Forward Sols, I excel in crafting visually engaging and intuitive WordPress websites. My role encompasses web designing, and implementing those designs for better user experience, by keeping in mind how user see and use my product."
           />
 
           <Details
-            position="Providing Different Services"
+            position="Freelancer"
             company="Fiverr"
             companyLink="https://www.fiverr.com"
             time="2020-present"
-            address="I'm currently working as a freelancer as well, giving website modification, creation and debugging services, and website to app conversions , Logo Design ,UI/UX design and many services like that , and i have hands-on experience in these fields as i keep myself in touch with latest marketing trends"
+            work="I'm currently working as a freelancer as well, giving website modification, creation and debugging services, and website to app conversions , Logo Design ,UI/UX design and many services like that , and i have hands-on experience in these fields as i keep myself in touch with latest marketing trends"
           />
 
           

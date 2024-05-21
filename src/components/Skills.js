@@ -31,17 +31,17 @@ const Skills = () => {
         <motion.div className="flex items-center justify-center rounded-full font-semibold bg-dark text-light p-8 shadow-dark cursor-pointer dark:bg-light dark:text-dark lg:p-6 md:p-4 xs:text-xs xs:p-2"
         whileHover={{scale:1.05}}
         >
-        Web
+        WEB DEV
         </motion.div>
 
-        <Skill name="PYTHON" x="-25vw"  y="2vw" />
+        <Skill name="BOOTSTRAP" x="-25vw"  y="2vw" />
         <Skill name="DJANGO" x="-5vw"  y="-10vw" />
         <Skill name="HTML" x="20vw"  y="6vw" />
         <Skill name="CSS" x="0vw"  y="12vw" />
         <Skill name="MySQL" x="-20vw"  y="-15vw" />
         <Skill name="FLASK" x="15vw"  y="-12vw" />
         <Skill name="JAVASCRIPT" x="32vw"  y="-5vw" />
-        <Skill name="BOOTSTRAP" x="0vw"  y="-20vw" />
+        <Skill name="PYTHON" x="0vw"  y="-20vw" />
         <Skill name="WP BACKEND/FRONT-END" x="-25vw"  y="18vw" />
         <Skill name="GIT" x="18vw"  y="18vw" />
       </div>
